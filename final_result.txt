@@ -1,0 +1,27 @@
+Results Table
+
+Total Images: 40
+Dog Images: 30
+Not-a-Dog Images: 10
+
+CNN Model Architecture:
+		
+ResNet
+% Not-a-Dog Correct: 90
+% Dogs Correct: 100
+% Breeds Correct: 90
+% Match Labels: 82.5
+
+Alexnet
+% Not-a-Dog Correct: 100
+% Dogs Correct: 100
+% Breeds Correct: 80
+% Match Labels: 75
+
+VGG
+% Not-a-Dog Correct: 100
+% Dogs Correct: 100
+% Breeds Correct: 93.3
+% Match Labels: 87.5
+
+
